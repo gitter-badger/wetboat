@@ -1,6 +1,7 @@
 # Welcome to WETBoat
 
 [![Join the chat at https://gitter.im/wetboat/Lobby](https://badges.gitter.im/wetboat/Lobby.svg)](https://gitter.im/wetboat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a school project for HTBLuVA (or HTL) Salzburg.  
 
 WETBoat ('Water Evaluation and Transmission Boat') is a boat that measures data and takes pictures every few seconds so it acts as a weather station and a lake webcam at the same time.
